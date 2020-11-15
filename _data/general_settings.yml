@@ -1,27 +1,25 @@
 # General Settings
-title: "Snowlake premium jekyll template"
-email: "tortoizthemes@gmail.com"
-email_2: "tortoiz17@gmail.com"
+title: "Qa'id Jacobs - UX Designer and Creative Director"
+email: "qaid@constellation.design"
+email_2: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The portfolio website of Qa'id Jacobs describes his design and leadership work in the areas of product design, team leadership, and app and website development.
 
 black_logo_1x: "/assets/images/logo.png"
 black_logo_2x: "/assets/images/logo@2x.png"
 light_logo_1x: "/assets/images/logo-light.png"
 light_logo_2x: "/assets/images/logo-light@2x.png"
 
-address_01: 'Moonshine St. 14/05 <br /> Light City, London'
-phone_number: "+00 (123) 456 78 90"
-copyright_text: "© 2020 Snowlake.  All rights reserved."
+address_01: 'Amsterdam, NL'
+phone_number: ""
+copyright_text: "© 2020 Qa'id Jacobs.  All rights reserved."
 
 google_analytics:
   enable: false
-  key: "UA-664136761-1"  # UA-664136761-1
+  key: ""  # UA-000000000-0
 
 social_accounts:
-  title: "Follow Us"
+  title: "See me"
   links:
     - url: "#"
       icon: "jam jam-twitter"
@@ -84,9 +82,9 @@ external_links_03:
       text: "Process"
 
 footer_newsletter:
-  title: "Our Newsletter"
-  sub_title: "Subscribe to our newsletter to get our news & deals delivered to your inbox!"
-  subscribe_button_text: "Join"
+  title: ""
+  sub_title: ""
+  subscribe_button_text: ""
 
 
 one_page_nav_settings:
