@@ -1,0 +1,117 @@
+# General Settings
+title: "Qa'id Jacobs - UX Designer and Creative Director"
+email: "qaid@constellation.design"
+email_2: 
+description: >- # this means to ignore newlines until "baseurl:"
+  The portfolio website of Qa'id Jacobs describes his design and leadership work in the areas of product design, team leadership, and app and website development.
+
+black_logo_1x: "/assets/images/logo.png"
+black_logo_2x: "/assets/images/logo@2x.png"
+light_logo_1x: "/assets/images/logo-light.png"
+light_logo_2x: "/assets/images/logo-light@2x.png"
+
+address_01: 'Amsterdam, NL'
+phone_number: ""
+copyright_text: "© 2020 Qa'id Jacobs.  All rights reserved."
+
+google_analytics:
+  enable: false
+  key: ""  # UA-000000000-0
+
+social_accounts:
+  title: "See me"
+  links:
+    - url: "#"
+      icon: "jam jam-twitter"
+
+    - url: "#"
+      icon: "jam jam-facebook"
+
+    - url: "#"
+      icon: "jam jam-instagram"
+
+    - url: "#"
+      icon: "jam jam-vimeo"
+      
+    - url: "#"
+      icon: "jam jam-youtube"
+
+
+external_links:
+  title: "Learn More"
+  links:
+    - url: "#"
+      text: "About Us"
+    - url: "#"
+      text: "Our Story"
+    - url: "#"
+      text: "Projects"
+    - url: "#"
+      text: "Pricing"
+    - url: "#"
+      text: "Features"
+
+
+external_links_02:
+  title: "Need Help?"
+  links:
+    - url: "#"
+      text: "Support"
+    - url: "#"
+      text: "Get Started"
+    - url: "#"
+      text: "Contact Us"
+    - url: "#"
+      text: "Terms of Use"
+    - url: "#"
+      text: "Privacy Policy"
+
+
+external_links_03:
+  title: "Company"
+  links:
+    - url: "#"
+      text: "Our Team"
+    - url: "#"
+      text: "Strategy"
+    - url: "#"
+      text: "Service"
+    - url: "#"
+      text: "Mission"
+    - url: "#"
+      text: "Process"
+
+footer_newsletter:
+  title: ""
+  sub_title: ""
+  subscribe_button_text: ""
+
+
+one_page_nav_settings:
+  links:
+    - text: "Home"
+      url: "#home"
+    - text: "Services"
+      url: "#services"
+    - text: "Experiences"
+      url: "#experiences"
+    - text: "Portfolio"
+      url: "#portfolio"
+    - text: "Testimonials"
+      url: "#testimonials"
+    - text: "Contact"
+      url: "#contact"
+
+author_page_header:
+  header_background_image: "/assets/images/art/bg31.jpg"
+
+gallery:
+  images:
+  - img: "/assets/images/art/z1.svg"
+  - img: "/assets/images/art/z2.svg"
+  - img: "/assets/images/art/z3.svg"
+  - img: "/assets/images/art/z4.svg"
+  - img: "/assets/images/art/z5.svg"
+  - img: "/assets/images/art/z6.svg"
+  - img: "/assets/images/art/z7.svg"
+  - img: "/assets/images/art/z8.svg"
