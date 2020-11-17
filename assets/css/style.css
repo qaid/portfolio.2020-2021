@@ -7125,3 +7125,14 @@ footer.inverse-text address {
     visibility: hidden;
     width: 0;
 }
+
+/* CUSTOM STYLES */
+.owl-carousel .item figure {
+    border: 1px solid lightgray;
+}
+
+h3.display-3.text-center {
+    color: #2f7ab3;
+    font-weight: 600;
+}
+}
