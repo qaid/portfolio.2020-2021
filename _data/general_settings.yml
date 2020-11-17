@@ -1,6 +1,6 @@
 # General Settings
-title: "Qa'id Jacobs - UX Designer and Creative Director"
-email: "qaid@constellation.design"
+title: "Qa'id Jacobs UX Designer and Creative Director"
+email: "qaid [at] constellation.design"
 email_2: 
 description: >- # this means to ignore newlines until "baseurl:"
   The portfolio website of Qa'id Jacobs describes his design and leadership work in the areas of product design, team leadership, and app and website development.
@@ -21,20 +21,17 @@ google_analytics:
 social_accounts:
   title: "See me"
   links:
-    - url: "#"
+    - url: "https://twitter.com/qaidj"
       icon: "jam jam-twitter"
 
-    - url: "#"
-      icon: "jam jam-facebook"
-
-    - url: "#"
+    - url: "https://instagram.com/qaid"
       icon: "jam jam-instagram"
 
-    - url: "#"
-      icon: "jam jam-vimeo"
+    - url: "https://linkedin.com/in/qaidjacobs"
+      icon: "jam jam-linkedin"
       
-    - url: "#"
-      icon: "jam jam-youtube"
+    - url: "https://github.com/qaid"
+      icon: "jam jam-github"
 
 
 external_links:
@@ -89,16 +86,12 @@ footer_newsletter:
 
 one_page_nav_settings:
   links:
-    - text: "Home"
-      url: "#home"
-    - text: "Services"
-      url: "#services"
-    - text: "Experiences"
-      url: "#experiences"
-    - text: "Portfolio"
-      url: "#portfolio"
-    - text: "Testimonials"
-      url: "#testimonials"
+    - text: "About"
+      url: "#about"
+    - text: "Expertise"
+      url: "#expertise"
+    - text: "Work"
+      url: "#work"
     - text: "Contact"
       url: "#contact"
 
@@ -107,11 +100,9 @@ author_page_header:
 
 gallery:
   images:
-  - img: "/assets/images/art/z1.svg"
-  - img: "/assets/images/art/z2.svg"
-  - img: "/assets/images/art/z3.svg"
-  - img: "/assets/images/art/z4.svg"
-  - img: "/assets/images/art/z5.svg"
-  - img: "/assets/images/art/z6.svg"
-  - img: "/assets/images/art/z7.svg"
-  - img: "/assets/images/art/z8.svg"
+  - img: "/assets/images/client-logos/AfricanPuzzle.svg"
+  - img: "/assets/images/client-logos/Booking.svg"
+  - img: "/assets/images/client-logos/DesignLab.svg"
+  - img: "/assets/images/client-logos/bizzylabs.svg"
+  - img: "/assets/images/client-logos/channelaffairs.svg"
+  - img: "/assets/images/client-logos/VONQ.svg" 

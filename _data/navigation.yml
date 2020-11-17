@@ -1,11 +1,17 @@
 main_menu:
 
-  - text: "Work"
-    url: "/work"
+  - text: "Home"
+    url: "/"
+
+  - text: "About"
+    url: "/#about"
     
-  - text: "About Me"
-    url: "/about"
+  - text: "Expertise"
+    url: "/#expertise"
+
+  - text: "Work"
+    url: "/#work"  
 
   - text: "Contact"
-    url: "/contact"
+    url: "/#contact"
 

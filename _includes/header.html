@@ -3,9 +3,9 @@
     <div class="navbar-brand">
       <a href="{{site.url}}">
         {% if include.light_logo %}
-         <img src="{{site.data.general_settings.light_logo_1x}}" srcset="{{site.data.general_settings.light_logo_1x}} 1x, {{site.data.general_settings.light_logo_2x}} 2x" class="{% if include.logo_class %} {{include.logo_class}} {% else %} logo-light {% endif %}" alt="{{site.data.general_settings.title}}"/>
+         <!-- <img src="{{site.data.general_settings.light_logo_1x}}" srcset="{{site.data.general_settings.light_logo_1x}} 1x, {{site.data.general_settings.light_logo_2x}} 2x" class="{% if include.logo_class %} {{include.logo_class}} {% else %} logo-light {% endif %}" alt="{{site.data.general_settings.title}}"/> -->
          {% endif %}
-         <img src="{{site.data.general_settings.black_logo_1x}}" srcset="{{site.data.general_settings.black_logo_1x}} 1x, {{site.data.general_settings.black_logo_2x}} 2x" class="{% if include.logo_class %} {{include.logo_class}} {% else %} logo-dark {% endif %} {% if include.black_logo_disable %} d-none {% endif %}" alt="{{site.data.general_settings.title}}"/>
+         <!-- <img src="{{site.data.general_settings.black_logo_1x}}" srcset="{{site.data.general_settings.black_logo_1x}} 1x, {{site.data.general_settings.black_logo_2x}} 2x" class="{% if include.logo_class %} {{include.logo_class}} {% else %} logo-dark {% endif %} {% if include.black_logo_disable %} d-none {% endif %}" alt="{{site.data.general_settings.title}}"/> -->
       </a>
     </div>
     <div class="navbar-other ml-auto order-lg-3">
@@ -15,21 +15,6 @@
             <button class="hamburger animate plain" data-toggle="offcanvas-nav"><span></span></button>
           </div>
         </li>
-        <li class="dropdown search-dropdown position-static nav-item">
-          <a href="#" role="button" class="collapse-toggle" data-toggle="collapse" data-target=".search-dropdown-menu" aria-haspopup="true" aria-expanded="false"><i class="jam jam-search"></i></a>
-          <div class="dropdown-menu search-dropdown-menu w-100 collapse">
-            <div class="form-wrapper">
-              <form class="inverse-text">
-                <input type="text" id="search-input" class="form-control" placeholder="Search blog posts.."/>
-                <i class="dropdown-close jam jam-close"></i>
-              </form>
-              <!-- /.search-form -->
-            </div>
-            <!-- /.form-wrapper -->
-           <ul id="results-container" class="position-static"></ul>
-          </div>
-        </li>
-        <li class="nav-item"><button class="plain" data-toggle="offcanvas-info"><i class="jam jam-info"></i></button></li>
       </ul>
       <!-- /.navbar-nav -->
     </div>

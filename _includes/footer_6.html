@@ -5,7 +5,7 @@
         <div class="row">
           <div class="col-md-4">
             <div class="widget">
-              <h3 class="widget-title">Our Location</h3>
+              <h3 class="widget-title">Home Base</h3>
               {% if site.data.general_settings.address_01 %}
                <address class="mb-0">{{site.data.general_settings.address_01}}</address>
               {% endif %}
@@ -15,7 +15,7 @@
           <!-- /column -->
           <div class="col-md-4">
             <div class="widget">
-              <h3 class="widget-title">Follow</h3>
+              <h3 class="widget-title">Out There</h3>
               <ul class="social social-mute social-s">
                 {% for social_info in site.data.general_settings.social_accounts.links %}
                 <li><a href="{{social_info.url}}"><i class="{{social_info.icon}}"></i></a></li>

@@ -104,3 +104,15 @@ blockquote.larger p {
 .isotope-filter ul li a {
     padding: 0.6rem 0.9rem 0.65rem;
 }
+
+/****************/
+/*CUSTOM CLASSES*/
+/****************/
+
+
+/* Add some weight to the intro text*/
+.container.inner.landing-intro p {
+    font-weight: 500; 
+}
+
+/* Move photo to the left on landing page */
