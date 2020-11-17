@@ -1,0 +1,30 @@
+[
+  
+    {
+      "title"    : "The Usual Hotels",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/mapping-out-a-digital-experience-for-hotels",
+      "date"     : "2020-11-03 15:37:13 +0100",
+      "desc"     : "The Usual Hotels"
+    } ,
+  
+    {
+      "title"    : "The Wild",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/unearthing-creative-vision-with-the-wild",
+      "date"     : "2020-11-02 00:00:00 +0100",
+      "desc"     : "The Wild"
+    } ,
+  
+    {
+      "title"    : "African Puzzle",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/piecing-together-product-strategy-for-african-puzzle",
+      "date"     : "2020-11-01 15:37:13 +0100",
+      "desc"     : "African Puzzle"
+    } 
+  
+]
